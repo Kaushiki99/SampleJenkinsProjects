@@ -1,3 +1,2 @@
 INDEX VERSION 1.131+D:\CGJenkins\.metadata\.plugins\org.eclipse.jdt.core
-4191674208.index
 1447393676.index
